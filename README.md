@@ -1,3 +1,10 @@
+## Notes on the exercise
+
+The code for the exercise is contained in the file plot_code.R. The code produces
+four PNG files. The files are saved in the "myownplots" subfolder.
+
+The text below corresponds to the original README file.
+
 ## Introduction
 
 This assignment uses data from
